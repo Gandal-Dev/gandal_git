@@ -19,4 +19,5 @@
 # Comment creer une nouvelle branche 
 
   $ git checkout -b nom_branche 
-  
+
+# creation de la branche Develop
