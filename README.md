@@ -12,3 +12,11 @@
  
  	1. git retore --staged < nom file >
 	
+# Comprendre les branches 
+
+  $ git branch ( permet determiner le nombre de branche )
+
+# Comment creer une nouvelle branche 
+
+  $ git checkout -b nom_branche 
+  
